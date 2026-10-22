@@ -27,6 +27,3 @@ Abra `index.html` no navegador.
 └── images/
 ```
 
-## Próximo passo
-
-- Corrigir o caminho da imagem na página inicial (`../images/` deveria ser `images/`).
